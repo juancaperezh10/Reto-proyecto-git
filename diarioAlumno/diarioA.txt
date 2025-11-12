@@ -5,3 +5,5 @@
 12:00 Almuerzo
 13:00 Clase Matematica
 15:00 Clase Estadistica
+17:00 Gym
+19:00 Tareas Universidad
